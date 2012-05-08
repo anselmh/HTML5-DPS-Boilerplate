@@ -28,5 +28,4 @@ Here on github, simply hit the "ZIP" download button above and get all files pac
 Authors
 -------
 
-This project
-This projec is brought to you by [Anselm Hannemann](http://anselm-hannemann.com "Anselm's Portfolio") and [Johannes Henseler](http://nordsueddesign.de "Johannes' Portfolio").
+This project is brought to you by [Anselm Hannemann](http://anselm-hannemann.com "Anselm's Portfolio") and [Johannes Henseler](http://nordsueddesign.de "Johannes' Portfolio").
