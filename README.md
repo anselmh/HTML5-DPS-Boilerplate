@@ -15,9 +15,9 @@ This "no-framework" consits of a little set of files with minimal markup ready f
 the html file for you to work in. Reference this file in your digital publishing framework.
 This file containts a section for CSS where we put a normalize/reset part and a section where you can put your jQuery into.
 
-	js/jquery-1.9.0.min
-	js/modernizr-2.5.3.min
-we included jQuery 1.9.0 and modernizr 2.5.3 into this boilerplate. Use [Modernizr](http://modernizr.com) to test the features of the browser the file might be viewed on (iOS, Android). See [this commit](https://github.com/anselmh/HTML5-DPS-Boilerplate/commit/71f206958b8a56142e4ddb27885fc80241533311) what features-tests are included in the customized Modernizr build.
+	js/jquery-1.9.1.min
+	js/modernizr-2.6.2.min
+we included jQuery 1.9.1 and modernizr 2.6.2 into this boilerplate. Use [Modernizr](http://modernizr.com) to test the features of the browser the file might be viewed on (iOS, Android). See [this commit](https://github.com/anselmh/HTML5-DPS-Boilerplate/commit/71f206958b8a56142e4ddb27885fc80241533311) what features-tests are included in the customized Modernizr build.
 
 
 Download and use
