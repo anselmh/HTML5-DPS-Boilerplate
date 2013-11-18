@@ -16,10 +16,10 @@ This "no-framework" consits of a little set of files with minimal markup ready f
 the html file for you to work in. Reference this file in your digital publishing framework.
 This file containts a section for CSS where we put a normalize/reset part and a section where you can put your jQuery into.
 
-	js/jquery-2.0.0.min.js
-	js/modernizr-2.6.2.min.js
+	js/jquery-2.0.3.min.js
+	js/modernizr-2.7.0.min.js
 
-we included jQuery 2.0.0 and modernizr 2.6.2 into this boilerplate. Use [Modernizr](http://modernizr.com) to test the features of the browser the file might be viewed on (iOS, Android). See [this commit](https://github.com/anselmh/HTML5-DPS-Boilerplate/commit/71f206958b8a56142e4ddb27885fc80241533311) what features-tests are included in the customized Modernizr build.
+I included jQuery 2.0.3 and Modernizr 2.7.0 into the boilerplate. Use [Modernizr](http://modernizr.com) to test the features of the browser the file might be viewed on (iOS, Android). For best performance you should build your own customized Modernizr build which only includes the tests you use in your code.
 
 
 Download and use
@@ -31,5 +31,5 @@ Here on github, simply hit the "ZIP" download button above and get all files pac
 Author
 -------
 
-This project is brought to you by [Anselm Hannemann](http://helloanselm.com "Anselm's Portfolio").
+This project is brought to you by [Anselm Hannemann](http://helloanselm.com/).
 He is on twitter and can be found at [@helloanselm](https://twitter.com/helloanselm).
